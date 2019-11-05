@@ -1,0 +1,10 @@
+Tue Oct 15 15:50:28 2019
+	Light : 1
+Tue Oct 15 15:50:32 2019
+	Light : 1
+Tue Oct 15 15:50:35 2019
+	Light : 1
+Tue Oct 15 15:51:39 2019
+	Light : 0
+Tue Oct 15 15:51:42 2019
+	Light : 1

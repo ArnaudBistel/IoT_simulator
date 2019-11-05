@@ -1,0 +1,16 @@
+Tue Oct 15 15:50:27 2019
+	Humidity : 81.62
+Tue Oct 15 15:50:29 2019
+	Humidity : 18.97
+Tue Oct 15 15:50:32 2019
+	Humidity : 69.91
+Tue Oct 15 15:50:34 2019
+	Humidity : 13.21
+Tue Oct 15 15:50:36 2019
+	Humidity : 34.27
+Tue Oct 15 15:51:38 2019
+	Humidity : 17.18
+Tue Oct 15 15:51:40 2019
+	Humidity : 75.08
+Tue Oct 15 15:51:42 2019
+	Humidity : 67.57
